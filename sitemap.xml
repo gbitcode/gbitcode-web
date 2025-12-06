@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Main Page -->
+    <url>
+        <loc>https://gbitcode.com/</loc>
+        <lastmod>2025-12-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Gimme Stat Tool -->
+    <url>
+        <loc>https://gimme-stat.gbitcode.com</loc>
+        <lastmod>2025-12-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- File Generator Tool -->
+    <url>
+        <loc>https://file-generator.gbitcode.com/</loc>
+        <lastmod>2025-12-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- GMap2Waze Bot Tool -->
+    <url>
+        <loc>https://gmap2waze.gbitcode.com/</loc>
+        <lastmod>2025-12-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+</urlset>
